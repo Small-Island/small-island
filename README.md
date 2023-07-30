@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm majoring computer science at Tokyo Metropolitan University.
 My hobby is playing the guitar. skiing.
 
