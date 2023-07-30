@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-haaaa
+I'm majoring computer science at Tokyo Metropolitan University.
+My hobby is playing the guitar. skiing.
 
 <!--
 **Small-Island/small-island** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
